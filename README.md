@@ -1,4 +1,4 @@
-# AZ-301: Microsoft Azure Architect Design
+# AZ-301: Microsoft Azure Architect Design Study Guide
 ## Skills measured
 * [Determine workload requirements (10-15%)](1-Determine%20workload%20requirements%20(10-15%25).md)
 * [Design for identity and security (20-25%)](2-Design%20for%20identity%20and%20security%20(20-25%25).md)
