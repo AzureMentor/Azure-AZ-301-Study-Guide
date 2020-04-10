@@ -25,3 +25,5 @@
 ## Design a monitoring strategy for infrastructure
 * Design for alert notifications
 * Design an alert and metrics strategy
+
+[Return to Table of Contents](README.md)

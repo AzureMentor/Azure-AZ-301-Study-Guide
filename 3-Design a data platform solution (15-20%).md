@@ -32,3 +32,5 @@
 * Design for alert notifications
 * Design an alert and metrics strategy
 * Monitor Azure Data Factory pipelines
+
+[Return to Table of Contents](README.md)
